@@ -7,6 +7,8 @@ This repository contains SQL code that I completed through Career Foundry Data A
 - Which countries are Rockbuster customers based in?
 - Where are customers with a high lifetime value based?
 - Do sales figures vary between geographic regions?
+# Final Presentation
+https://docs.google.com/presentation/d/1-zhUOrPPRxuMtsTu6nK64gQoLYTgarKx/edit?usp=drive_link&ouid=114495450749431207051&rtpof=true&sd=true
 ## Data Set
 The project uses a provided database for the fictional comapany Rockbuster Stealth. I used PostgreSQL for queries and analysis.
 This link includes the database used: http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
