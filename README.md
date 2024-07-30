@@ -1,6 +1,6 @@
 # Schwarz_SQL_Portfolio
 # Introduction
-This repository contains SQL code that I completed through Career Foundry Data Analytics Bootcamp. It displays what I have learned, my skills and my depth of potential in analytics. The subject of the project was a fictional video rental company called Rockbuster Stealth. This project began with uploading databases and writing basic queries then expanded filtering, cleaning and summarizing data, and culminated with analysis of key business questions.  This task familiarized me with SQL queries and databases culminating in an analysis of key business questions. The repository includes moderately complex SQL queries alongside project deliverables. The files included exemplify my ability to work with SQL.
+This repository contains SQL code that I completed through Career Foundry Data Analytics Bootcamp. It displays what I have learned, my skills and my depth of potential in analytics. The subject of the project was a fictional video rental company called Rockbuster Stealth. This project began with uploading databases and writing basic queries then expanded to filtering, cleaning and summarizing data, and culminated with analysis of key business questions.  The repository includes moderately complex SQL queries alongside project deliverables. The files included exemplify my ability to work with SQL.
 ## Key Questions
 - Which movies contributed most/least to revenue gain?
 - What was the average rental duration for all videos?
